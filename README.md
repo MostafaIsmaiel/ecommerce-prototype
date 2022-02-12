@@ -13,4 +13,4 @@ The website displays products. The project using the power of Commerce.js, Users
 - Handle the payment using Stripe.js
 
 ---
-You can check out for [live preview](https://commerce-prototype.netlify.app/cart)
+You can check out for [live preview](https://commerce-prototype.netlify.app/)
