@@ -22,4 +22,11 @@ The website displays products. The project using the power of Commerce.js, Users
 - Stripe.js
 
 ---
+## Note:
+You can use the default credit card number to complete the simulation of the payment process 
+Card number: 4242 4242 4242 4242
+expire date: 04 / 24
+ZIP: 42424
+
+---
 You can check out for [live preview](https://commerce-prototype.netlify.app/)
